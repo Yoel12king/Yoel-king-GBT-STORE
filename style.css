@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: bodrder box;
+  {
+
+body {
+  display: flex:
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Aria, sans-serif;
+}
+
+header {
+  position: fixed;
+  top: o;
+  left: 0;
+  widht: 100x;
+  x-index: 1000;
+}
+
+.navbar {
+  display: flex;
+justify-content: center;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul li {
+  margin-left: 20px
+}
